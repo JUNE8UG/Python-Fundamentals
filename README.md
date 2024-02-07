@@ -66,5 +66,3 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 Happy coding!
 ```
-
-Remember to replace "your-username" with your actual GitHub username. Additionally, consider adding specific details about your repository, such as any prerequisites or specific instructions for running the code.
